@@ -1,0 +1,23 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: chocolate;
+    padding: 10px;
+    justify-content: space-around;
+}
+.list
+{
+    background-color: brown;
+    color: bisque;
+    padding: 10px;
+    border-radius: 99cm;
+}
+.list:hover{
+    background-color: beige;
+    cursor: pointer;
+}
+.list hover{
+    background-color: brown;
+    color: bisque;
+    cursor: pointer;
+}
